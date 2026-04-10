@@ -17,6 +17,14 @@
   "author": "promise-lc",
   "license": "ISC",
   "description": "一个创建vite+react+ts的admin后台项目的脚手架",
+  "homepage": "https://github.com/promiseLC/promise_cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promiseLC/promise_cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/promiseLC/promise_cli/issues"
+  },
   "dependencies": {
     "@inquirer/core": "^11.1.8",
     "chalk": "^5.6.2",
